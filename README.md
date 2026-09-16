@@ -6,6 +6,14 @@
 
 메일·문자·화면을 계속 지켜보다가, 해 두면 좋을 일이 보이면 먼저 해 둡니다.
 
+<p align="center">
+  <img src="https://minea.minea.workers.dev/preview.gif" width="700" alt="메일에 적힌 일정을 보고 MINEA가 먼저 방울을 띄웁니다">
+</p>
+
+<p align="center">
+  <a href="https://minea.minea.workers.dev/intro.mp4">전체 소개 영상 보기 (42초)</a>
+</p>
+
 ```
 메일에 "다음 주 화요일 3시" 가 있으면
    → 화요일 3시 회의, 캘린더에 넣어 둘까요?
