@@ -4,6 +4,14 @@
 
 It watches your mail, messages, and screen. When it spots something worth doing, it does it — or offers, with one tap.
 
+<p align="center">
+  <img src="https://minea.minea.workers.dev/preview.gif" width="700" alt="MINEA spots a date in an email and raises a bubble on its own">
+</p>
+
+<p align="center">
+  <a href="https://minea.minea.workers.dev/intro.mp4">Watch the full intro (42s)</a>
+</p>
+
 ```
 Your mail says "next Tuesday at 3"
    -> Tuesday 3pm meeting. Add it to your calendar?
