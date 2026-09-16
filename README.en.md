@@ -19,7 +19,7 @@ Tap it and it's done. Ignore it and it disappears.
 
 **[Get MINEA](https://minea.minea.workers.dev)** (page in Korean)
 
-macOS 11 (Big Sur) or later, Apple silicon only. 212 MB.
+macOS 11 (Big Sur) or later, Apple silicon only. 196 MB.
 Signed and notarized by Apple, so it opens without warnings.
 
 **One more download, once.** You can type `@미네아 …` (the trigger is Korean) in any text
