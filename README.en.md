@@ -27,8 +27,9 @@ Tap it and it's done. Ignore it and it disappears.
 
 **[Get MINEA](https://minea.minea.workers.dev)** (page in Korean)
 
-macOS 11 (Big Sur) or later, Apple silicon only. 196 MB.
-Signed and notarized by Apple, so it opens without warnings.
+macOS 11 (Big Sur) or later, Intel and Apple silicon. 335 MB.
+The first time, open it with **right-click -> Open**. It is not notarized by Apple yet,
+so a plain double-click shows a warning.
 
 **One more download, once.** You can type `@미네아 …` (the trigger is Korean) in any text
 field right away.
@@ -54,7 +55,7 @@ no password. That download is why your messages never leave the machine.
 ## Price
 
 - **If you have a Claude account**, it uses yours — no limits, nothing to pay us.
-- If you don't, **10 runs free**. No card.
+- If you don't, **30 runs free**. No card.
 - Pricing after that isn't decided. We want to hear from the first users first.
 
 ## Your screen stays on your Mac
