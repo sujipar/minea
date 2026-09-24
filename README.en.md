@@ -31,10 +31,9 @@ in the app. No Homebrew, no password.
 
 ## It doesn't only help while you're at the screen
 
-> **These four aren't available to download yet.** They need the iPhone app, which isn't
-> on the App Store (it currently runs only on the developer's own device). A TestFlight
-> build is in the works; until then, **only the Mac side is available.** Email if you'd
-> like early access.
+> **These four need the iPhone app.** Before it goes to the App Store proper, it's opening
+> on **TestFlight** first — currently awaiting Apple's review. The link will be posted here
+> once it's open. Everything on the Mac side works today.
 
 An assistant that lives inside a window stops existing the moment you walk away.
 
