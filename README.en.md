@@ -4,8 +4,8 @@
 
 **An assistant that does things before you ask.**
 
-It watches your Mac, iPhone and Apple Watch together, and when something is worth
-doing, it does it. When something needs to be said out loud, **it calls you.**
+It watches your screen, mail and messages, and when something is worth doing, it does
+it. And when you wonder about something, **it builds a curriculum and teaches you.**
 
 > **The app's interface is in Korean and English.** Switch at the top of Settings —
 > no restart needed.
@@ -30,6 +30,11 @@ model (about 5.4GB) that decides — on your machine — whether to speak up. On
 in the app. No Homebrew, no password.
 
 ## It doesn't only help while you're at the screen
+
+> **These four aren't available to download yet.** They need the iPhone app, which isn't
+> on the App Store (it currently runs only on the developer's own device). A TestFlight
+> build is in the works; until then, **only the Mac side is available.** Email if you'd
+> like early access.
 
 An assistant that lives inside a window stops existing the moment you walk away.
 
