@@ -1,71 +1,128 @@
 # MINEA
 
-**A Mac assistant that does things before you ask.**
+[한국어](README.md) · [English](README.en.md)
 
-It watches your mail, messages, and screen. When it spots something worth doing, it does it — or offers, with one tap.
+**An assistant that does things before you ask.**
+
+It watches your Mac, iPhone and Apple Watch together, and when something is worth
+doing, it does it. When something needs to be said out loud, **it calls you.**
+
+> **The app's interface is in Korean and English.** Switch at the top of Settings —
+> no restart needed.
 
 <p align="center">
-  <img src="https://minea.minea.workers.dev/preview.gif" width="700" alt="MINEA spots a date in an email and raises a bubble on its own">
+  <img src="https://minea.minea.workers.dev/preview.gif" width="700" alt="MINEA spots a date in an email and offers to add it to the calendar">
 </p>
 
 <p align="center">
-  <a href="https://minea.minea.workers.dev/intro.mp4">Watch the full intro (42s)</a>
+  <a href="https://minea.minea.workers.dev/intro.mp4">Watch the intro (29s, Korean)</a>
 </p>
 
-```
-Your mail says "next Tuesday at 3"
-   -> Tuesday 3pm meeting. Add it to your calendar?
-```
+## Get it
 
-Tap it and it's done. Ignore it and it disappears.
+**[Download MINEA →](https://minea.minea.workers.dev)**
 
-> **Note on language.** MINEA speaks Korean. The app interface, its replies, and the
-> download page are all in Korean. This page is in English so you can tell whether it's
-> for you — but the product itself is not localized yet.
+macOS 11 (Big Sur) or later · Intel and Apple Silicon · 339MB
 
-## Download
+**One more download, once.** You can start giving it tasks right away by typing
+`@미네아 …` in any text field. But to let it **watch on its own**, it needs a local
+model (about 5.4GB) that decides — on your machine — whether to speak up. One button
+in the app. No Homebrew, no password.
 
-**[Get MINEA](https://minea.minea.workers.dev)** (page in Korean)
+## It doesn't only help while you're at the screen
 
-macOS 11 (Big Sur) or later, Intel and Apple silicon. 335 MB.
-The first time, open it with **right-click -> Open**. It is not notarized by Apple yet,
-so a plain double-click shows a warning.
+An assistant that lives inside a window stops existing the moment you walk away.
 
-**One more download, once.** You can type `@미네아 …` (the trigger is Korean) in any text
-field right away.
-But to let it **watch** your mail and screen, it needs a model (about 5.4 GB) that decides
-locally whether something is worth raising — one button inside the app, no Homebrew,
-no password. That download is why your messages never leave the machine.
+- **It calls you.** Before an appointment. If you went to bed late, the wake-up call
+  is pushed 30 minutes (unless something is scheduled right after). Pick up and it's a
+  conversation — ask "what time was that meeting again?" and it answers; it hangs up
+  when you say you're done
+- **Hand off work from the iPhone lock screen.** Call it through Siri and your Mac
+  does the work. The screen goes dark while it runs, and a notification wakes you when
+  it's finished
+- **It reads your Apple Watch as a multi-week trend**, not as single days. When health
+  declines it usually *slides* — no single day crosses a threshold, so day-by-day checks
+  never fire. **It does not diagnose.** It says "this differs from your usual" and stops
+  there, and it writes things down so you have an answer when a doctor asks "since when?"
+- **It puts text on Meta Ray-Ban Display lenses** — silent, so it works around other people
 
-## What it does
+## It teaches what you were curious about
 
-- **Reads mail and messages as they arrive** — pulls out appointments, deadlines, and replies you owe
-- **Watches the screen** — when there's something to do on it, a small bubble offers to do it
-- **Writes to Calendar and Reminders** for you, with time and place filled in
-- **Takes direct orders** — type `@미네아 <task>` in any text field, anywhere
+An answer helps once. So instead of just answering, it **builds a curriculum.**
 
-## Where it stops
+The number of sessions and their length come from the subject — one English phrase is
+15 minutes, data modeling gets 50-minute sessions. It finds the free slots, puts them on
+your calendar, and **the window opens on the hour.**
+
+- **A 20-minute assessment first.** Not just what you know — how you spot the crux, how
+  you transfer an idea, your instinct for it. You get a report with evidence behind every
+  score, and blanks where there isn't any.
+  Reasoning questions are written so that **you can answer them knowing nothing about the
+  subject** — if a newcomer misses everything and gets "logic: 1", that's not an
+  assessment, it's a label
+- **A 7-minute debrief at the end.** An honest read on how it went. To keep it from
+  inventing praise, it may only cite **things actually said that session** — "you asked
+  twice whether the rest keeps running after a failure." If you barely spoke, it says so
+- **An exam, and one retry if you miss.** Pass and your level in that field goes up a
+  notch, so the next subject starts from there. There is no third attempt — past that,
+  it isn't guidance anymore, it's debt collection
+
+## It moves even when nothing comes in
+
+Most assistants need an input to react to. So on a quiet day they do nothing at all.
+
+- **It asks a separate question: what's missing today?** Two hours lying down, and it
+  books 30 minutes of yoga into a free slot two hours out. **It doesn't say anything —
+  it just leaves the slot.** Skip it, delete it, no harm done
+- **It cleans up what it scheduled.** Seeing yesterday's skipped workout again tomorrow
+  morning is a debt notice. Things you scheduled yourself are never touched
+- **It keeps a one-page journal of each day.** Raw logs are too heavy to ever get read.
+  Patterns get pulled from the journal and become the basis for what it does next
+- **Observation beats what you wrote down.** If your Watch says "bedtime 10pm" but you
+  actually sleep at 3am, it moves the baseline — one step a day, with a note on why,
+  and it tells you once that it moved
+
+## On the Mac
+
+- Reads new mail and messages, pulls out appointments, deadlines, things to reply to
+- Watches the screen and speaks up — only when there's actually something to do
+- Adds, moves and deletes calendar events and reminders (Google Calendar too)
+- Works while you're out — send it a task from your iPhone or Telegram
+- Type `@미네아 draft a reply to this email` in any text field
+
+## You decide how far it goes
 
 | | |
 |---|---|
-| Calendar, notes, tidying up | Does it without asking. Reversible. |
-| Replies and emails | **Drafts only.** You press send. |
-| Payments and bookings | **Stops right before.** You press the last button. |
+| Calendar, notes, organizing | Done without asking. It's reversible. |
+| Replies and outgoing mail | **Drafted only.** You press send. |
+| Payments and bookings | **Stops right before.** A person always presses the last button. |
+
+The biggest thing building this taught us: **if interrupting is the only channel you
+have, you end up saying nothing.** When every nudge has to ring, you second-guess each
+one — and eventually stay quiet. Only after adding a *silent* layer (quietly placing
+things on the calendar) could it start looking after things often.
 
 ## Price
 
-- **If you have a Claude account**, it uses yours — no limits, nothing to pay us.
-- If you don't, **30 runs free**. No card.
-- Pricing after that isn't decided. We want to hear from the first users first.
+- **If you have a Claude account**, use it with no limits.
+- If not, **30 runs** free. No card.
+- Real pricing isn't set yet. We want to hear from people who've used it first.
 
-## Your screen stays on your Mac
+## What it sees is filtered on your machine
 
-The decision of whether to speak up is made **locally**, on your machine. The full text of
-your mail and messages never leaves it. Only a few lines — the part that looks like a task —
-are sent out when MINEA actually does the work.
+Whether to speak up is decided **on your Mac**. The text of your messages and mail never
+leaves the computer — only a few lines, already filtered down to "worth acting on", go out.
+Messages from banks and brokerages aren't read at all; account, card and ID numbers are
+masked before anything is passed along.
 
-## Source
+## For web tasks
 
-This repository is the download page and the issue tracker. **The app is not open source.**
-If something is broken or awkward, that's exactly what we want to hear — open an issue,
-or write to suji63261@gmail.com.
+Sign in to claude.ai in Chrome and install the [extension](https://claude.ai/chrome), and
+MINEA can click through websites for you. The Claude desktop app takes over that
+connection if it's running, so quit it when handing over web work.
+
+## Still being built
+
+If something feels off or doesn't work, that's exactly what we want to hear.
+Open an [issue](../../issues) or write to suji63261@gmail.com.
