@@ -32,8 +32,8 @@ in the app. No Homebrew, no password.
 ## It doesn't only help while you're at the screen
 
 > **These four need the iPhone app.** Before it goes to the App Store proper, it's opening
-> on **TestFlight** first — currently awaiting Apple's review. The link will be posted here
-> once it's open. Everything on the Mac side works today.
+> on **TestFlight** first — **[Get the iPhone app →](https://testflight.apple.com/join/5319xdMS)** (iOS 16+)
+> Everything on the Mac side works without it.
 
 An assistant that lives inside a window stops existing the moment you walk away.
 
