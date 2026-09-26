@@ -129,4 +129,4 @@ connection if it's running, so quit it when handing over web work.
 ## Still being built
 
 If something feels off or doesn't work, that's exactly what we want to hear.
-Open an [issue](../../issues) or write to suji63261@gmail.com.
+Open an [issue](../../issues) or write to sujistar@icloud.com.
