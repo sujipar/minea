@@ -7,8 +7,9 @@
 It watches your screen, mail and messages, and when something is worth doing, it does
 it. And when you wonder about something, **it builds a curriculum and teaches you.**
 
-> **The app's interface is in Korean and English.** Switch at the top of Settings —
-> no restart needed.
+> **The whole interface is in English.** If your Mac is set to English it comes up in
+> English on its own — otherwise switch at the top of Settings, no restart needed.
+> Calls, tutoring, the daily page and the nudges all come out in English too.
 
 <p align="center">
   <img src="https://minea.minea.workers.dev/preview.gif" width="700" alt="MINEA spots a date in an email and offers to add it to the calendar">
@@ -22,11 +23,11 @@ it. And when you wonder about something, **it builds a curriculum and teaches yo
 
 **[Download MINEA →](https://minea.minea.workers.dev)**
 
-macOS 11 (Big Sur) or later · Intel and Apple Silicon · 357MB
+macOS 11 (Big Sur) or later · Intel and Apple Silicon · 363MB
 
 **One more download, once.** You can start giving it tasks right away by typing
-`@미네아 …` in any text field. But to let it **watch on its own**, it needs a local
-model (about 5.4GB) that decides — on your machine — whether to speak up. One button
+`@minea …` in any text field. But to let it **watch on its own**, it needs a local
+model (15GB) that decides — on your machine — whether to speak up. One button
 in the app. No Homebrew, no password.
 
 ## It doesn't only help while you're at the screen
@@ -92,7 +93,7 @@ Most assistants need an input to react to. So on a quiet day they do nothing at 
 - Watches the screen and speaks up — only when there's actually something to do
 - Adds, moves and deletes calendar events and reminders (Google Calendar too)
 - Works while you're out — send it a task from your iPhone or Telegram
-- Type `@미네아 draft a reply to this email` in any text field
+- Type `@minea draft a reply to this email` in any text field
 
 ## You decide how far it goes
 
