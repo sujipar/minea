@@ -23,7 +23,7 @@ it. And when you wonder about something, **it builds a curriculum and teaches yo
 
 **[Download MINEA →](https://minea.minea.workers.dev)**
 
-macOS 11 (Big Sur) or later · Intel and Apple Silicon · 363MB
+macOS 11 (Big Sur) or later · Apple Silicon **191MB** / Intel **202MB** — the site picks the right one
 
 **One more download, once.** You can start giving it tasks right away by typing
 `@minea …` in any text field. But to let it **watch on its own**, it needs a local
