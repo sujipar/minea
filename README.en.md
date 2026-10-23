@@ -23,7 +23,7 @@ it. And when you wonder about something, **it builds a curriculum and teaches yo
 
 **[Download MINEA →](https://minea.minea.workers.dev)**
 
-macOS 11 (Big Sur) or later · Apple Silicon **191MB** / Intel **202MB** — the site picks the right one
+macOS 11 (Big Sur) or later · Apple Silicon **192MB** / Intel **203MB** — the site picks the right one
 
 If that link doesn't open, grab it **[straight from the releases](https://github.com/sujipar/minea/releases/latest)** —
 `MINEA-arm64.dmg` for Apple Silicon, `MINEA-x64.dmg` for Intel, `MINEA-universal.dmg` for either.
