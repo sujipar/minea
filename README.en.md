@@ -38,6 +38,11 @@ model that decides — on your machine — whether to speak up. One button in th
 background after that, and the app moves up to it on its own when it's ready — so you
 can use it while you wait. No Homebrew, no password.
 
+### Starting out
+
+A short page with just what to try first —
+**[First 5 minutes →](First%205%20minutes.md)** (2 min to read, 3 to do)
+
 ### Running it at full strength
 
 You get **30 free runs** out of the box — nothing to sign up for.
