@@ -25,10 +25,26 @@ it. And when you wonder about something, **it builds a curriculum and teaches yo
 
 macOS 11 (Big Sur) or later · Apple Silicon **191MB** / Intel **202MB** — the site picks the right one
 
+If that link doesn't open, grab it **[straight from the releases](https://github.com/sujipar/minea/releases/latest)** —
+`MINEA-arm64.dmg` for Apple Silicon, `MINEA-x64.dmg` for Intel, `MINEA-universal.dmg` for either.
+
+It's notarized by Apple, so it just opens. If you see "is damaged", the download was cut short — try again.
+
 **One more download, once.** You can start giving it tasks right away by typing
 `@minea …` in any text field. But to let it **watch on its own**, it needs a local
-model (15GB) that decides — on your machine — whether to speak up. One button
-in the app. No Homebrew, no password.
+model that decides — on your machine — whether to speak up. One button in the app.
+
+**It starts working once 5.2GB is down.** The better model keeps downloading in the
+background after that, and the app moves up to it on its own when it's ready — so you
+can use it while you wait. No Homebrew, no password.
+
+### Running it at full strength
+
+You get **30 free runs** out of the box — nothing to sign up for.
+
+If you have a Claude account (Pro or Max), sign in once in the app. From then on it runs
+**on your subscription, with the stronger model** — the same setup the author uses.
+The free runs are a taste, one model tier below (they still get dates right).
 
 ## It doesn't only help while you're at the screen
 
