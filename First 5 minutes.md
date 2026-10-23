@@ -3,6 +3,11 @@
 Just what to try first, once it's installed.
 Two minutes to read, three to do.
 
+> **The app's screen is still in Korean.** Only the replies switch to English
+> (Settings → the top row, `Language · 언어`). So this guide gives you the Korean
+> labels **exactly as they appear**, with what they mean — you can match them by eye.
+> A full English screen is being worked on.
+
 ---
 
 ## 1. Say something to it (30s)
@@ -45,9 +50,9 @@ You don't have to open the app. Ask from wherever you already are.
 
 This is the real thing. **Without it, it's just another chatbot.**
 
-1. Open settings
-2. Turn on **"Watch alongside me"**
-3. Press the **setup button** once — it downloads the judgement model, **5.2GB**
+1. Open settings — the gear
+2. Turn on **곁에서 지켜보기** ("watch alongside me")
+3. Press the **준비** ("get ready") button once — it downloads the judgement model, **5.2GB**
    (A few minutes, depending on your connection. Steps 1 and 2 keep working while it downloads.)
 
 Once it's down:
@@ -69,7 +74,7 @@ Click and it does it. Ignore it and it goes away. **It never adds anything witho
 It gets better as things accumulate — your schedule, your words, your rhythm.
 **It really does improve with use.** The first few days are the worst it will ever be.
 
-If it mishears a name, put it in settings → **"When it mishears"**.
+If it mishears a name, put it in settings → **잘못 들었을 때** ("when it misheard").
 It will hear it right from then on.
 
 ---
@@ -87,12 +92,12 @@ If you have a Claude account (Pro or Max), sign in once — from then on it runs
 **on your subscription, with the stronger model**: the same setup the author uses.
 
 **I don't want some of these features**
-You can turn each one off in settings. Put anything annoying in "Don't tell me about this"
-and that category stops showing up. Things you'll never do go in "Things I've decided against" —
-those aren't even started.
+You can turn each one off in settings. Put anything annoying in **이건 알리지 마세요**
+("don't tell me about this") and that category stops showing up. Things you'll never do go in
+**안 하기로 하신 것** ("decided against") — those aren't even started.
 
 **It talks to me too much**
-Turn it off in settings, or put the noisy kind in "Don't tell me about this".
+Turn it off in settings, or put the noisy kind in **이건 알리지 마세요**.
 It filters what you've listed from then on.
 
 ---
