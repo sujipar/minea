@@ -23,7 +23,11 @@ it. And when you wonder about something, **it builds a curriculum and teaches yo
 
 **[Download MINEA →](https://minea.minea.workers.dev)**
 
-macOS 11 (Big Sur) or later · Apple Silicon **192MB** / Intel **203MB** — the site picks the right one
+macOS 11 (Big Sur) or later · Intel **203MB** / Apple Silicon **364MB** — the site picks the right one
+
+> The Apple Silicon&ndash;only build dropped out of 1.1.3 (notarization credential read failure),
+> so you get the **universal build (364MB)** &mdash; it runs the same on Apple Silicon.
+> This note goes away once the 192MB build is back up.
 
 If that link doesn't open, grab it **[straight from the releases](https://github.com/sujipar/minea/releases/latest)** —
 `MINEA-arm64.dmg` for Apple Silicon, `MINEA-x64.dmg` for Intel, `MINEA-universal.dmg` for either.

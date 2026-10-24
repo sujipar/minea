@@ -19,7 +19,11 @@
 
 **[MINEA 받기 →](https://minea.minea.workers.dev)**
 
-macOS 11(Big Sur) 이상 · 애플 실리콘 **192MB** / 인텔 **203MB** — 받는 곳에서 알맞은 것을 드립니다
+macOS 11(Big Sur) 이상 · 인텔 **203MB** / 애플 실리콘 **364MB** — 받는 곳에서 알맞은 것을 드립니다
+
+> 애플 실리콘 전용 판은 1.1.3 을 구울 때 공증 자격을 못 읽어 빠졌습니다.
+> 그래서 **둘 다 되는 판(364MB)** 으로 드립니다 — 애플 실리콘에서 그대로 돕니다.
+> 전용 판(192MB)을 다시 올리는 대로 여기를 고치겠습니다.
 
 받기가 안 열리면 **[릴리스에서 바로](https://github.com/sujipar/minea/releases/latest)** 받으셔도 됩니다 —
 애플 실리콘은 `MINEA-arm64.dmg`, 인텔은 `MINEA-x64.dmg`, 둘 다 되는 것은 `MINEA-universal.dmg` 입니다.
